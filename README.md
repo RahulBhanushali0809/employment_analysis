@@ -33,3 +33,6 @@ Comparative Analysis: Compare Germany's employment trends with the average of th
 
 **Scope and Limitations**:
 This analysis will focus on data available up to 2021 and will primarily rely on publicly available economic, labor market, and trade data. The study acknowledges that unforeseen events and complexities may influence employment dynamics beyond the identified factors. 
+
+
+![image](https://github.com/RahulBhanushali0809/employment_analysis/assets/109872141/172a1301-89bb-471f-8af4-92e7d4a305ef)
